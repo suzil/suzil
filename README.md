@@ -14,7 +14,7 @@
 
 ### Familiar technologies
 
-- Python (with types)
+- Python (with types ♥️)
 - Pandas
 - Data pipelines, integration
 - Microservice architecture
