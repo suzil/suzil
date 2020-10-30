@@ -20,10 +20,11 @@
 - Microservice architecture
 - Docker
 - Django
-- Django REST framework
+- Django REST framework, RESTful APIs
 - Elasticsearch
 - PyTorch
 - AWS EC2, S3
+- Pydantic
 - NumPy
 - Postgres
 - Kubeflow
