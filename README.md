@@ -10,6 +10,7 @@
 - 🖋️ I strongly agree with Michael Feathers that legacy code is code without tests
 - 🎹 I play the piano and my favorite composer is Debussy
 - 🎮 I love playing Super Smash Bros. to decompress from work
+- 🤖 .i .o'a mi pu jbopre
 
 ### Familiar technologies
 
