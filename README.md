@@ -27,6 +27,3 @@
 - Pydantic
 - NumPy
 - Postgres
-- Kubeflow
-- React, TypeScript (limited)
-- PySpark (limited)
